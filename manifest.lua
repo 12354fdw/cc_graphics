@@ -1,5 +1,4 @@
 return {
-    ForcedDir = false,
     {"button_demo.lua",false,"/"},
     {"frame_demo.lua",false,"/"},
     {"graphics.lua",false,"/"},
